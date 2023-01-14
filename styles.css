@@ -1,0 +1,57 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: goldenrod;
+}
+.attribution a {
+    color: hsl(212, 55%, 73%);
+}
+
+body{
+    margin: 0;
+    background-color: hsl(218, 44%, 22%);
+}
+
+.topTitle{
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    scale: 1.1;
+}
+
+.button{
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    scale: 1.1;
+}
+
+.qrApp{
+    width: 500px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: hsl(212, 45%, 89%);
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.2rem, 0.2rem, 0.2rem, 0.2rem;
+    cursor: pointer;
+    object-position: center;
+    scale: 0.9;
+}
+
+article{
+    background-color: #fff;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+    object-position: center;
+    scale: 0.7;
+}
+
+.image{
+    padding: 1rem;
+    padding-left: 1.5rem;
+}
